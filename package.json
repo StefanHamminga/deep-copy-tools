@@ -1,0 +1,25 @@
+{
+  "name": "deep-copy-tools",
+  "version": "0.0.1",
+  "description": "Object manipulation, synchronization and cloning utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanHamminga/deep-copy-tools"
+  },
+  "bugs": {
+    "url": "https://github.com/StefanHamminga/deep-copy-tools/issues"
+  },
+  "keywords": [
+    "copy",
+    "clone",
+    "object",
+    "synchronization",
+    "deepcopy"
+  ],
+  "author": "Stefan Hamminga <stefan@prjct.net> (https://prjct.net)",
+  "license": "LGPL-3.0"
+}
